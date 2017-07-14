@@ -1,0 +1,2 @@
+# EvolutionarySimulation
+An accurate simulation of the biological process of evolution. Each generated organism has their own statistics for survival and reproductive ability. These statistics, along with many other evolutionary factors, will affect the fitness of the organism. With random mutations that bring up different alleles for the chosen trait, eye color, the population evolves towards the most advantageous allele. Last modified:  
